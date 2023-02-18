@@ -1,4 +1,4 @@
-# imagetotext-pytyon-script-with-UI
+# imagetotext-python-application-with-UI
 
 this repository includes a py file which can bu used to transform image to text. Used libraries are PIL, tkinter and pytesseract.
 
